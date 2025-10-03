@@ -1,5 +1,41 @@
 [
   {
+    "id": "item-retouched-1759508438806-4",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759508438806-4.jpg",
+    "name_en": "Men's Ceremonial Caftan with Gold Embroidery",
+    "name_ru": "Мужской церемониальный кафтан с золотой вышивкой",
+    "name_tg": "Ҷомаи маросимии мардона бо гулдӯзии тиллоӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Кафтан",
+    "tags": "бархат; золотая вышивка; традиционный; праздничный; формальный; мужской; кафтан; церемониальный; восточный; роскошный",
+    "description_ru": "Элегантный мужской церемониальный кафтан из роскошного темно-синего бархата, украшенный пышной золотой вышивкой по всей поверхности. Этот изысканный наряд идеально подходит для торжественных мероприятий и национальных праздников, подчеркивая статус и утонченный вкус своего обладателя."
+  },
+  {
+    "id": "item-retouched-1759508414611-3",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759508414611-3.jpg",
+    "name_en": "Men's Chapan with Gold Embroidery",
+    "name_ru": "Мужской чапан с золотой вышивкой",
+    "name_tg": "Чапани мардона бо гулдӯзии тиллоӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Чапан",
+    "tags": "Чапан; мужская одежда; национальный костюм; восточная одежда; вышивка; золотая вышивка; традиционный; кремовый; бежевый; торжественный; праздничный",
+    "description_ru": "Изысканный мужской чапан кремового оттенка, украшенный роскошной золотой вышивкой. Этот традиционный наряд воплощает в себе элегантность и культурное наследие, идеально подходя для особых мероприятий и торжеств."
+  },
+  {
+    "id": "item-retouched-1759508385896-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759508385896-1.jpg",
+    "name_en": "Men's Velvet Chapan",
+    "name_ru": "Мужской бархатный чапан",
+    "name_tg": "Чапани мардонаи махмалӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Чапан",
+    "tags": "бархат; синий; вышивка; серебряные узоры; традиционный; мужской; церемониальный; восточный; роскошный; ручная работа; длинный халат",
+    "description_ru": "Изысканный мужской чапан из роскошного синего бархата, богато украшенный ручной серебряной вышивкой в традиционном стиле. Этот величественный наряд идеально подходит для особых случаев, придавая образу благородство и торжественность."
+  },
+  {
     "id": "item-retouched-1759505314880-14",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759505314880-14.jpg",
     "name_en": "Festive National Golden Ikat Dress",
