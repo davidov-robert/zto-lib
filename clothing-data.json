@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-1759500350098-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500350098-2.jpeg",
+    "name_en": "Men's Dark Green Blazer",
+    "name_ru": "Мужской пиджак темно-зеленого цвета",
+    "name_tg": "Куртаи мардонаи сабзи торик",
+    "gender": "male",
+    "category": "Wedding",
+    "subCategory": "Blazer",
+    "tags": "Blazer; suit jacket; dark green; emerald green; formal; elegant; men's fashion; business casual; two-button; notched lapel",
+    "description_ru": "Элегантный темно-зеленый мужской пиджак, подчеркивающий утонченный стиль и безупречный вкус, идеален для деловых встреч или торжественных случаев."
+  },
+  {
     "id": "item-1759500337651-1",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500337651-1.jpeg",
     "name_en": "Bright Blue Men's Blazer",
