@@ -1,14 +1,14 @@
 [
   {
-    "id": "item-1759499741683",
+    "id": "item-1759500321560-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500321560-0.jpeg",
     "name_en": "Men's Burgundy Blazer",
     "name_ru": "Мужской бордовый пиджак",
-    "name_tg": "Пиҷаки мардонаи сурх",
+    "name_tg": "Блейзери мардонаи бургундия",
     "gender": "male",
     "category": "Wedding",
-    "tags": "blazer; suit jacket; formal wear; burgundy; maroon; elegant; modern; two-button; business casual; party wear; evening wear; stylish",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759499741683.jpeg",
-    "description_ru": "Элегантный мужской пиджак насыщенного бордового цвета, выполненный в современном стиле. Идеально подходит для создания утонченного образа на торжественных мероприятиях, деловых встречах или вечерних выходах.",
-    "subCategory": "Blazer"
+    "subCategory": "Blazer",
+    "tags": "blazer; suit jacket; men's wear; formal; business casual; burgundy; maroon; single-breasted; two-button; pocket square; stylish",
+    "description_ru": "Элегантный мужской пиджак насыщенного бордового цвета, идеально подходящий для создания стильного и утонченного образа. Классический крой и две пуговицы делают его универсальным выбором для деловых встреч и торжественных мероприятий."
   }
 ]
