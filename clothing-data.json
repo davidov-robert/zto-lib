@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-1759500458678-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500458678-2.jpg",
+    "name_en": "Festive Traditional Embroidered Dress",
+    "name_ru": "Праздничное платье с традиционной вышивкой",
+    "name_tg": "Куртаи идонаи гулдӯзӣ",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress",
+    "tags": "traditional; festive; embroidery; Central Asian; Tajik; green; multicolored; floral; suzani style; wide sleeves; national clothing; dress; women's",
+    "description_ru": "Это потрясающее традиционное платье, выполненное в ярко-зеленом цвете, украшено великолепной многоцветной вышивкой в стиле сузани. Каждый узор тщательно вышит, создавая впечатляющий цветочный орнамент. Свободный крой и широкие рукава с оборками придают платью легкость и изящество, делая его идеальным выбором для праздничных событий и торжеств, отражающим богатое культурное наследие."
+  },
+  {
     "id": "item-1759500443504-1",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500443504-1.jpg",
     "name_en": "'Azure Dream' Festive National Ensemble",
