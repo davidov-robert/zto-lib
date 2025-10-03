@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-1759500391983-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500391983-0.jpeg",
+    "name_en": "Men's Burgundy Blazer",
+    "name_ru": "Мужской бордовый пиджак",
+    "name_tg": "Куртаи мардонаи сурхча",
+    "gender": "male",
+    "category": "Wedding",
+    "subCategory": "Blazer",
+    "tags": "blazer; jacket; suit; formal; elegant; burgundy; maroon; red; men's fashion; classic; two-button; notched lapel; pocket square; stylish; modern",
+    "description_ru": "Элегантный мужской пиджак насыщенного бордового цвета, идеально подходящий для создания изысканного образа. Классический крой с двумя пуговицами и аккуратным нагрудным карманом подчеркивает стиль и индивидуальность."
+  },
+  {
     "id": "item-1759500376038-4",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500376038-4.jpeg",
     "name_en": "Classic Black Blazer",
