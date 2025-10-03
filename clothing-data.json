@@ -1,5 +1,19 @@
 [
   {
+    "id": "item-retouched-1759517010072-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759517010072-0.jpeg",
+    "name_en": "Striped Zipper Tie",
+    "name_ru": "Галстук на молнии с полосками",
+    "name_tg": "Галстуки тасмадори рахдор",
+    "gender": "male",
+    "category": "Аксессуары",
+    "subCategory": "Zipper Tie",
+    "tags": "zipper tie; pre-tied tie; striped; navy blue; light blue; formal; business; men's accessory; easy-wear; classic",
+    "description_en": "An elegant navy blue zipper tie, featuring classic light blue stripes. This pre-tied accessory offers effortless style and convenience for any formal or business occasion, ensuring a perfectly neat knot every time.",
+    "description_ru": "Элегантный темно-синий галстук на молнии, украшенный классическими светло-голубыми полосками. Этот готовый аксессуар обеспечивает безупречный стиль и удобство для любого официального или делового мероприятия, гарантируя идеально завязанный узел каждый раз.",
+    "description_tg": "Галстуки зебои кабуди торик бо тасмаи молния, ки бо рахҳои классикии кабуди равшан оро дода шудааст. Ин лавозимоти тайёр барои ҳар як маросими расмӣ ё корӣ услуби бемалол ва роҳатӣ пешниҳод намуда, ҳар дафъа гиреҳи комилан тозаро таъмин менамояд."
+  },
+  {
     "id": "item-retouched-1759514237465-2",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759514237465-2.jpeg",
     "name_en": "Striped Silver and Black Tie",
