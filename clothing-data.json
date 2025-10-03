@@ -102,7 +102,7 @@
     "name_ru": "Изысканное красное свадебное платье \"Шахерезада\"",
     "name_tg": "Либоси арӯсии сурхи \"Шаҳризод\"",
     "gender": "female",
-    "category": "Wedding",
+    "category": "1",
     "subCategory": "Wedding Gown",
     "tags": "wedding gown; red; white; silver embroidery; regal; royal; ceremonial; cape; crown; ornate; traditional; festive; long sleeve",
     "description_ru": "Великолепное красное свадебное платье, вдохновленное восточной роскошью, с изысканной серебряной вышивкой и элегантной накидкой. Этот наряд создает царственный образ, идеально подходящий для незабываемой церемонии."
@@ -114,7 +114,7 @@
     "name_ru": "Вечернее платье \"Асман\" с вышивкой",
     "name_tg": "Либоси шоҳонаи \"Асман\" бо гулдӯзӣ",
     "gender": "female",
-    "category": "Wedding",
+    "category": "1",
     "subCategory": "Dress",
     "tags": "black; velvet; satin; silver embroidery; rhinestones; crystals; long sleeve; floor-length; elegant; formal; festive; traditional inspired; evening gown; wedding dress",
     "description_ru": "Элегантное вечернее платье из черного бархата и атласа, украшенное изысканной серебристой вышивкой с сияющими кристаллами. Идеально для особых торжеств и свадебных мероприятий."
@@ -150,7 +150,7 @@
     "name_ru": "Белое свадебное платье с вышивкой и кружевом",
     "name_tg": "Либоси арӯсии сафед бо гулдӯзӣ ва тӯр",
     "gender": "female",
-    "category": "Wedding",
+    "category": "1",
     "subCategory": "Gown",
     "tags": "white; wedding; gown; dress; embroidered; lace; silver; traditional; ceremonial; elegant; bridal; long sleeve; festive",
     "description_ru": "Изысканное белое свадебное платье, украшенное нежной серебристой вышивкой и мерцающими камнями. Объемные кружевные рукава добавляют образу легкости и романтичности, создавая неповторимый наряд для особого дня."
@@ -186,7 +186,7 @@
     "name_ru": "Свадебное национальное платье",
     "name_tg": "Либоси арӯсии миллӣ",
     "gender": "female",
-    "category": "Wedding",
+    "category": "1",
     "subCategory": "Gown",
     "tags": "white; wedding; national; traditional; elegant; embroidered; feathers; crystals; beads; long sleeves; ceremonial; ornate; headpiece; flared sleeves",
     "description_ru": "Изысканный национальный свадебный наряд, сочетающий в себе традиционные элементы и современную элегантность. Белое платье с пышными рукавами, богато украшенным лифом и головным убором с перьями и кристаллами, создает неповторимый образ для особого торжества."
