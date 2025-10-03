@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-1759500488201-4",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500488201-4.jpg",
+    "name_en": "Wedding Dress \"White Fairytale\"",
+    "name_ru": "Свадебное платье \"Белая сказка\"",
+    "name_tg": "Либоси арӯсии \"Афсонаи сафед\"",
+    "gender": "female",
+    "category": "Wedding",
+    "subCategory": "Wedding Dress",
+    "tags": "white; wedding; ceremonial; elegant; luxurious; feathers; crystals; beads; ruffles; bell sleeves; headpiece; embroidery; modern; bridal; festive",
+    "description_ru": "Изысканное свадебное платье в белом цвете, вдохновленное сказочной элегантностью. Модель украшена нежными рюшами, воздушными колоколообразными рукавами и сверкающей вышивкой из бисера и кристаллов. Дополняет образ роскошный головной убор с перьями и ниспадающими кристальными цепочками, создавая поистине волшебный и незабываемый образ для невесты."
+  },
+  {
     "id": "item-1759500472315-3",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500472315-3.jpg",
     "name_en": "Traditional Tajik Women's Festive Attire",
