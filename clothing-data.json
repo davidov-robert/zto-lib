@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-retouched-1759513681881-15",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513681881-15.jpeg",
+    "name_en": "Men's Classic Grey Trousers",
+    "name_ru": "Мужские брюки классического кроя",
+    "name_tg": "Шимҳои мардонаи хокистарӣ",
+    "gender": "male",
+    "category": "Clothing",
+    "subCategory": "Trousers",
+    "tags": "серые; мужские; брюки; классические; деловые; костюмные; полоска; формальные; повседневные",
+    "description_ru": "Элегантные мужские брюки классического серого цвета с тонкой вертикальной полоской, идеально подходящие для делового образа или торжественных мероприятий. Отличаются удобством и безупречным стилем."
+  },
+  {
     "id": "item-retouched-1759513705405-16",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513705405-16.jpeg",
     "name_en": "Men's Classic Dark Green Trousers",
@@ -12,16 +24,16 @@
     "description_ru": "Элегантные мужские брюки классического кроя в глубоком темно-зеленом цвете. Идеально подходят как для деловых встреч, так и для стильных повседневных образов, обеспечивая комфорт и безупречный вид."
   },
   {
-    "id": "item-retouched-1759513681881-15",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513681881-15.jpeg",
-    "name_en": "Men's Classic Grey Trousers",
-    "name_ru": "Мужские брюки классического кроя",
-    "name_tg": "Шимҳои мардонаи хокистарӣ",
+    "id": "item-retouched-1759513387013-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513387013-0.jpeg",
+    "name_en": "Red men's blazer",
+    "name_ru": "Красный мужской пиджак",
+    "name_tg": "Куртаи мардонаи сурх",
     "gender": "male",
     "category": "Clothing",
-    "subCategory": "Trousers",
-    "tags": "серые; мужские; брюки; классические; деловые; костюмные; полоска; формальные; повседневные",
-    "description_ru": "Элегантные мужские брюки классического серого цвета с тонкой вертикальной полоской, идеально подходящие для делового образа или торжественных мероприятий. Отличаются удобством и безупречным стилем."
+    "subCategory": "Blazer",
+    "tags": "blazer; suit jacket; men's fashion; formal; semi-formal; business attire; party wear; single-breasted; two-button; red; burgundy; modern; elegant",
+    "description_ru": "Элегантный мужской пиджак насыщенного красного цвета, идеально подходящий для деловых встреч или торжественных мероприятий. Стильный и современный крой подчеркнет ваш образ."
   },
   {
     "id": "item-retouched-1759513660469-14",
@@ -183,18 +195,6 @@
     "subCategory": "Пиджак",
     "tags": "синий; пиджак; мужской; классический; деловой; нарядный; современный; элегантный; повседневный; blazer; blue; men's; classic; business; formal; modern; elegant; smart casual; single-breasted",
     "description_ru": "Элегантный мужской пиджак насыщенного синего цвета, который легко дополнит как деловой, так и повседневный образ, придавая ему нотку стиля и уверенности."
-  },
-  {
-    "id": "item-retouched-1759513387013-0",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513387013-0.jpeg",
-    "name_en": "Red men's blazer",
-    "name_ru": "Красный мужской пиджак",
-    "name_tg": "Куртаи мардонаи сурх",
-    "gender": "male",
-    "category": "Apparel",
-    "subCategory": "Blazer",
-    "tags": "blazer; suit jacket; men's fashion; formal; semi-formal; business attire; party wear; single-breasted; two-button; red; burgundy; modern; elegant",
-    "description_ru": "Элегантный мужской пиджак насыщенного красного цвета, идеально подходящий для деловых встреч или торжественных мероприятий. Стильный и современный крой подчеркнет ваш образ."
   },
   {
     "id": "item-retouched-1759511158795-4",
