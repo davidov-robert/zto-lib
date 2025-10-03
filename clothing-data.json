@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "item-retouched-1759504230879-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759504230879-2.jpg",
+    "name_en": "Tajik Chakan Festive National Dress",
+    "name_ru": "Праздничное национальное платье \"Чакан\"",
+    "name_tg": "Либоси миллии идонаи \"Чакан\"",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress",
+    "tags": "Chakan; embroidery; traditional; Tajik; festive; national dress; green; colorful; floral; bell sleeves; headpiece; Central Asian",
+    "description_ru": "Яркое праздничное национальное платье \"Чакан\" изумрудного цвета, украшенное роскошной многоцветной вышивкой. Рукава в стиле \"клёш\" и подол декорированы изящной белой оборкой, создавая воздушный и торжественный образ. Дополнено традиционным головным убором."
+  },
+  {
+    "id": "item-retouched-1759504206788-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759504206788-1.jpg",
+    "name_en": "National \"Turquoise Dream\" Costume",
+    "name_ru": "Национальный костюм \"Бирюзовая Мечта\"",
+    "name_tg": "Либоси миллии \"Орзуи фирӯзӣ\"",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress Ensemble",
+    "tags": "Tajik; traditional; national costume; blue; white; embroidery; beads; festive; elegant; dress; vest; headpiece; lace; bell sleeves",
+    "description_ru": "Изысканный национальный наряд, состоящий из струящегося белого платья с пышными рукавами, украшенными нежным кружевом, и удлиненного жилета небесно-голубого цвета с богатой вышивкой и сверкающими бусинами. Образ дополняет великолепный головной убор с перьями, придающий ансамблю особую торжественность и утонченность."
+  },
+  {
+    "id": "item-retouched-1759504174289-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759504174289-0.jpg",
+    "name_en": "Luxurious Red Embroidered National Gown",
+    "name_ru": "Роскошное красное национальное платье с вышивкой",
+    "name_tg": "Куртаи миллии сурхи гулдузии боҳашамат",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Gown",
+    "tags": "красный; бархат; вышивка; традиционный; национальный костюм; роскошный; праздничный; золотой; серебряный; колоколообразные рукава; головной убор; культурный; элегантный; таджикский; центральноазиатский; торжество; бусины; бахрома",
+    "description_ru": "Величественное красное бархатное национальное платье, украшенное потрясающей золотой и серебряной вышивкой в традиционных узорах. С пышными колоколообразными рукавами, изящной бахромой и бисером, оно создает незабываемый образ для праздничных событий и культурных торжеств."
+  }
+]
