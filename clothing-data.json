@@ -1,5 +1,16 @@
 [
   {
+    "id": "item-1759500376038-4",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500376038-4.jpeg",
+    "name_en": "Classic Black Blazer",
+    "name_ru": "Классический черный пиджак",
+    "name_tg": "Пиджаки сиёҳи классикӣ",
+    "gender": "male",
+    "category": "Wedding",
+    "tags": "черный; пиджак; классический; мужской; формальный; деловой; элегантный; костюм; современный; однобортный; торжественный",
+    "description_ru": "Элегантный черный пиджак классического кроя, созданный для придания безупречного вида. Идеален для деловых встреч, торжественных мероприятий или как часть стильного повседневного образа. Белый акцент на нагрудном кармане добавляет изысканности."
+  },
+  {
     "id": "item-1759500363619-3",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500363619-3.jpeg",
     "name_en": "Men's Light Grey Blazer",
