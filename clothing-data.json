@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "item-retouched-1759509637054-3",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509637054-3.jpg",
+    "name_en": "Traditional Tajik Festive Costume",
+    "name_ru": "Традиционный таджикский праздничный костюм",
+    "name_tg": "Либоси идонаи миллии тоҷикӣ",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Costume",
+    "tags": "традиционный; национальный; праздничный; вышивка; золотой; красный; белый; головной убор; длинное платье; колоколообразные рукава; таджикский; торжественный; халат",
+    "description_ru": "Элегантный таджикский национальный костюм, состоящий из длинного белого платья и роскошного красного халата, богато украшенного золотой вышивкой. Завершает образ изысканный головной убор с перьями, подчеркивающий торжественность и уникальность наряда."
+  },
+  {
+    "id": "item-retouched-1759509608308-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509608308-2.jpg",
+    "name_en": "National Suzani Embroidered Dress",
+    "name_ru": "Национальное платье \"Сузани\" с вышивкой",
+    "name_tg": "Либоси миллии \"Сӯзанӣ\" бо гулдӯзӣ",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress",
+    "tags": "традиционный; таджикский; узбекский; центральноазиатский; народный; платье; вышивка; сузани; цветочный; зеленый; яркий; праздничный; широкие рукава; головной убор",
+    "description_ru": "Изысканное национальное платье, украшенное роскошной вышивкой в стиле Сузани. Яркие цветочные узоры на глубоком зеленом фоне создают неповторимый праздничный образ, олицетворяющий богатое культурное наследие."
+  },
+  {
+    "id": "item-retouched-1759509577266-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509577266-1.jpg",
+    "name_en": "\"Turquoise\" Festive National Costume",
+    "name_ru": "Праздничный национальный костюм \"Бирюза\"",
+    "name_tg": "Либоси миллии идонаи \"Фирӯза\"",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Festive National Costume",
+    "tags": "traditional; festive; Tajik; Central Asian; folk costume; embroidery; beading; lace; blue; white; headpiece; long vest; bell sleeves; elegant; women's attire; national dress; ceremonial",
+    "description_ru": "Изящный женский национальный костюм, вдохновленный небесной бирюзой, состоит из белого платья с пышными рукавами, отделанными нежным кружевом, и длинного жилета, богато украшенного замысловатой вышивкой и сияющим бисером. Дополняет образ торжественный головной убор с бирюзовыми перьями и мерцающими камнями, придающий ансамблю поистине королевский вид и подчеркивающий традиционную красоту."
+  },
+  {
+    "id": "item-retouched-1759509548625-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509548625-0.jpg",
+    "name_en": "Red Traditional Embroidered Dress",
+    "name_ru": "Красное традиционное платье с вышивкой",
+    "name_tg": "Либоси сурхи анъанавии гулдӯзӣ",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress",
+    "tags": "red; velvet; embroidery; traditional; festive; cultural; dress; long sleeves; tassels; headdress; jewelry; ornate; formal; gold; silver; woman",
+    "description_ru": "Элегантное красное традиционное платье из бархата, украшенное изысканной серебряной и золотой вышивкой. Рукава дополнены изящными кисточками, что придает наряду особую торжественность и очарование. Идеально для праздничных мероприятий и культурных торжеств."
+  }
+]
