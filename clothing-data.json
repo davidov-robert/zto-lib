@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-retouched-1759509990532-15",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509990532-15.jpg",
+    "name_en": "Majestic Red National Dress",
+    "name_ru": "Величественное красное национальное платье",
+    "name_tg": "Либоси миллии сурхи бошукӯҳ",
+    "gender": "female",
+    "category": "National Clothing",
+    "subCategory": "Dress",
+    "tags": "red; white; embroidery; silver; traditional; ceremonial; dress; cape; crown; elegant; festive; women's fashion",
+    "description_ru": "Величественное красное национальное платье, украшенное изысканной серебряной вышивкой, создает образ королевской грации и торжественности. Идеально для особых случаев и церемоний, подчеркивая красоту и культурное наследие."
+  },
+  {
     "id": "item-retouched-1759509966063-14",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509966063-14.jpg",
     "name_en": "Black Evening Dress with Silver Embroidery",
@@ -10,18 +22,6 @@
     "subCategory": "Dress",
     "tags": "black; silver embroidery; velvet; satin; long dress; evening dress; formal; traditional; elegant; ornate; rhinestones",
     "description_ru": "Элегантное чёрное вечернее платье из бархата и атласа, украшенное изысканной серебряной вышивкой и сверкающими камнями. Этот наряд идеально подходит для торжественных мероприятий, подчёркивая утончённость и грацию образа."
-  },
-  {
-    "id": "item-retouched-1759509939038-13",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759509939038-13.jpg",
-    "name_en": "Traditional Festive Gown with Silver Embroidery",
-    "name_ru": "Национальное праздничное платье с вышивкой",
-    "name_tg": "Либоси идонаи миллӣ бо гулдӯзӣ",
-    "gender": "female",
-    "category": "National Clothing",
-    "subCategory": "Gown",
-    "tags": "fuchsia; magenta; silver embroidery; traditional; national costume; ceremonial; festive; gown; dress; women's fashion; bell sleeves; headpiece; ornate; embellished; beads; fringe",
-    "description_ru": "Изысканное традиционное платье яркого цвета фуксии, украшенное роскошной серебряной вышивкой и бахромой, идеально подходит для торжественных мероприятий и национальных праздников. Воздушные рукава-колокола и элегантный головной убор дополняют образ, создавая поистине царственный и запоминающийся вид."
   },
   {
     "id": "item-retouched-1759509911719-12",
