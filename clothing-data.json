@@ -1,5 +1,65 @@
 [
   {
+    "id": "item-retouched-1759511158795-4",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759511158795-4.jpg",
+    "name_en": "Chapan with gold embroidery",
+    "name_ru": "Чапан с золотой вышивкой",
+    "name_tg": "Чапан бо гулдӯзии тиллоӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Чапан",
+    "tags": "вельвет; золотая вышивка; традиционный; праздничный; элегантный; Центральная Азия; бархат; церемониальный",
+    "description_ru": "Элегантный чапан из темно-синего бархата, украшенный роскошной золотой вышивкой. Идеально подходит для торжественных мероприятий и национальных праздников, подчеркивая величие и традиции."
+  },
+  {
+    "id": "item-retouched-1759511139789-3",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759511139789-3.jpg",
+    "name_en": "Chapan with Golden Embroidery",
+    "name_ru": "Чапан с золотой вышивкой",
+    "name_tg": "Чапан бо гулдӯзии тиллоӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Chapan",
+    "tags": "традиционный; мужской; чапан; длинный жакет; золотая вышивка; церемониальный; праздничный; кремовый; элегантный; национальная одежда; среднеазиатский",
+    "description_ru": "Элегантный мужской чапан кремового цвета, украшенный изысканной золотой вышивкой, отражает богатые традиции и культурное наследие Центральной Азии. Идеально подходит для особых случаев и торжеств."
+  },
+  {
+    "id": "item-retouched-1759511119725-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759511119725-2.jpg",
+    "name_en": "Men's Embroidered Velour Jacket",
+    "name_ru": "Мужской расшитый велюровый пиджак",
+    "name_tg": "Куртаи мардонаи махмалии гулдӯзишуда",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Jacket",
+    "tags": "black; silver embroidery; velour; traditional; formal; men's wear; ceremonial; elegant; jacket",
+    "description_ru": "Элегантный мужской пиджак из роскошного черного велюра, украшенный изысканной серебряной вышивкой, придающей ему торжественный и праздничный вид. Идеально подходит для особых случаев."
+  },
+  {
+    "id": "item-retouched-1759511098833-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759511098833-1.jpg",
+    "name_en": "Men's Ceremonial Chapan",
+    "name_ru": "Чапан мужской парадный",
+    "name_tg": "Чапани мардонаи расмӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Chapan",
+    "tags": "velvet; royal blue; silver embroidery; traditional; formal; men's; ceremonial; chapan; long coat; Central Asian; ornate; luxury; festive; crystal embellishments",
+    "description_ru": "Элегантный мужской чапан из королевского синего бархата, украшенный роскошной серебряной вышивкой и кристаллами, идеально подходит для торжественных мероприятий и национальных праздников."
+  },
+  {
+    "id": "item-retouched-1759511077575-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759511077575-0.jpg",
+    "name_en": "Men's blazer with traditional embroidery",
+    "name_ru": "Мужской пиджак с традиционной вышивкой",
+    "name_tg": "Блейзери мардона бо гулдӯзии миллӣ",
+    "gender": "male",
+    "category": "National Clothing",
+    "subCategory": "Blazer",
+    "tags": "белый; пиджак; вышивка; традиционный; яркий; цветочный; мужской; праздничный; элегантный; центральноазиатский",
+    "description_ru": "Элегантный мужской пиджак белого цвета, украшенный яркой традиционной вышивкой, которая придает образу неповторимый колорит и праздничное настроение. Идеален для особых случаев и создания уникального стиля."
+  },
+  {
     "id": "item-retouched-1759510916749-48",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759510916749-48.jpg",
     "name_en": "Embroidered Velvet National Dress",
