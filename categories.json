@@ -3,5 +3,10 @@
   "Apparel",
   "Clothing",
   "Materials",
-  "National Clothing"
+  "National Clothing",
+  {
+    "name_en": "Accessories",
+    "name_ru": "Аксессуары",
+    "name_tg": "Лавозимот"
+  }
 ]
