@@ -1,5 +1,17 @@
 [
   {
+    "id": "item-1759500363619-3",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500363619-3.jpeg",
+    "name_en": "Men's Light Grey Blazer",
+    "name_ru": "Пиджак мужской светло-серый",
+    "name_tg": "Пиҷаки мардонаи хокистарранги равшан",
+    "gender": "male",
+    "category": "Wedding",
+    "subCategory": "Blazer",
+    "tags": "blazer; grey; men's fashion; formal; business casual; elegant; versatile; light grey; jacket; modern; smart; classic",
+    "description_ru": "Элегантный мужской пиджак светло-серого оттенка, идеально подходящий для деловых встреч, торжественных мероприятий или повседневного стильного образа. Современный крой и универсальный цвет делают его незаменимым элементом гардероба для создания изысканного вида."
+  },
+  {
     "id": "item-1759500350098-2",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-1759500350098-2.jpeg",
     "name_en": "Men's Dark Green Blazer",
