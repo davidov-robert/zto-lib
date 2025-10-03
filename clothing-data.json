@@ -1,7 +1,46 @@
 [
   {
+    "id": "item-retouched-1759514237465-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759514237465-2.jpeg",
+    "name_en": "Striped Silver and Black Tie",
+    "name_ru": "Галстук в серебристую полоску",
+    "name_tg": "Галстуки сиёҳ бо рахҳои нуқрагӣ",
+    "gender": "male",
+    "category": "Accessories",
+    "subCategory": "Tie",
+    "tags": "tie; men's fashion; striped; black; silver; formal; business; elegant; accessory",
+    "materialType": "pattern",
+    "description_ru": "Элегантный черный галстук с сияющими серебристыми полосками, идеально подходящий для делового или торжественного образа."
+  },
+  {
+    "id": "item-retouched-1759514212293-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759514212293-1.jpeg",
+    "name_en": "Dark Grey Polka Dot Tie",
+    "name_ru": "Темно-серый галстук в белый горошек",
+    "name_tg": "Галстуки хокистарӣ бо нақши нуқтаҳо",
+    "gender": "male",
+    "category": "Accessories",
+    "subCategory": "Tie",
+    "tags": "tie; polka dot; formal; business; dark grey; white dots; elegant; classic; men's fashion",
+    "materialType": "pattern",
+    "description_ru": "Элегантный темно-серый галстук, украшенный классическим узором в белый горошек, идеально дополнит деловой или торжественный образ, придавая ему нотку изысканности."
+  },
+  {
+    "id": "item-retouched-1759514190060-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759514190060-0.png",
+    "name_en": "Blue Striped Tie",
+    "name_ru": "Галстук в синюю полоску",
+    "name_tg": "Галстуки рахдори кабуд",
+    "gender": "male",
+    "category": "Accessories",
+    "subCategory": "Галстук",
+    "tags": "синий; белый; полосатый; галстук; формальный; деловой; классический; мужской; аксессуар",
+    "materialType": "pattern",
+    "description_ru": "Элегантный галстук в яркую синюю полоску, идеально дополняющий деловой образ или наряд для особых случаев."
+  },
+  {
     "id": "item-retouched-1759513681881-15",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513681881-15.jpeg",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513681881-15.jpg",
     "name_en": "Men's Classic Grey Trousers",
     "name_ru": "Мужские брюки классического кроя",
     "name_tg": "Шимҳои мардонаи хокистарӣ",
@@ -161,7 +200,7 @@
   },
   {
     "id": "item-retouched-1759513431998-2",
-    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513431998-2.jpeg",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759513431998-2.jpg",
     "name_en": "Elegant Men's Blazer",
     "name_ru": "Элегантный мужской пиджак",
     "name_tg": "Куртаи шевои мардона",
