@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "item-retouched-1759553631310-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759553631310-1.jpg",
+    "name_en": "Tajik Traditional Blue Embellished Vest and Dress",
+    "name_ru": "Таджикский традиционный синий расшитый жилет и платье",
+    "name_tg": "Куртаи анъанавии зардӯзии кабуд ва либоси тоҷикӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory": "National Festive Dress",
+    "tags_en": "traditional;Tajik;blue;white;embellished;festive;national costume;embroidery;folk;bell sleeves;headpiece;vest;long dress;formal;sequins",
+    "tags_ru": "традиционный;таджикский;синий;белый;расшитый;праздничный;национальный костюм;вышивка;народный;рукава-колокол;головной убор;жилет;длинное платье;нарядный;пайетки",
+    "tags_tg": "анъанавӣ;тоҷикӣ;кабуд;сафед;зардӯзӣ;идона;либоси миллӣ;гулдӯзӣ;мардумӣ;остинҳои васеъ;сарпӯш;жилет;либоси дароз;расмӣ;пайеткаҳо",
+    "description_en": "An elegant traditional Tajik attire featuring a pure white dress with graceful bell sleeves, adorned with delicate lace, paired with a vibrant blue long vest exquisitely embellished with intricate silver and dark blue embroidery and sparkling sequins. A matching feather-adorned headpiece completes this festive look.",
+    "description_ru": "Элегантный традиционный таджикский наряд, состоящий из белоснежного платья с изящными расклешенными рукавами, украшенными нежным кружевом, и яркого синего длинного жилета, искусно расшитого сложной серебряной и темно-синей вышивкой и сверкающими пайетками. Завершает праздничный образ соответствующий головной убор с перьями.",
+    "description_tg": "Либоси анъанавии зебои тоҷикӣ, ки аз куртаи сафеди соф бо остинҳои зебои васеъ, ки бо тӯрҳои нозук оро дода шудаанд, иборат буда, бо жилети дарози кабуди дурахшон, ки бо гулдӯзии мураккаби нуқрагин ва кабуди тира ва пайеткаҳои дурахшон ба таври аҷиб оро ёфтааст, мукаммал гардонида шудааст. Сарпӯши мувофиқ бо парҳо ин намуди идонаро пурра мекунад."
+  },
+  {
+    "id": "item-retouched-1759553590277-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759553590277-0.jpg",
+    "name_en": "Traditional Tajik Chapan",
+    "name_ru": "Таджикский традиционный чапан",
+    "name_tg": "Чапони миллии тоҷикӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory": "Robe",
+    "tags_en": "velvet; red; traditional; ornate embroidery; gold threads; beads; tassels; national dress; ceremonial; Tajik fashion; festive",
+    "tags_ru": "бархат; красный; традиционный; нарядная вышивка; золотые нити; бисер; кисточки; национальное платье; торжественный; таджикская мода; праздничный",
+    "tags_tg": "бахмал; сурх; миллӣ; гулдӯзии зебо; нақшу нигори тиллоӣ; мунчоқ; тасмаҳо; либоси миллӣ; идона; маросимӣ; мӯди тоҷикӣ; ҷашнӣ",
+    "description_en": "An exquisite red velvet traditional Tajik robe, featuring intricate silver and gold embroidery, sparkling beads, and delicate tassels. This ceremonial dress embodies the rich cultural heritage and artistry of Tajikistan, perfect for special occasions.",
+    "description_ru": "Изысканный красный бархатный традиционный таджикский халат, украшенный сложной серебряной и золотой вышивкой, сверкающим бисером и нежными кисточками. Это церемониальное платье воплощает богатое культурное наследие и мастерство Таджикистана, идеально подходящее для особых случаев.",
+    "description_tg": "Ҷомаи сурхи бахмалии миллӣ ва зебои тоҷикӣ, ки бо гулдӯзии мураккаби нуқрагину тиллоӣ, мунчоқҳои дурахшон ва тасмаҳои нозук оро дода шудааст. Ин либоси маросимӣ мероси фарҳангии ғанӣ ва ҳунари Тоҷикистонро таҷассум мекунад, ки барои мавридҳои махсус комил аст."
+  }
+]
