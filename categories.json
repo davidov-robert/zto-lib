@@ -1,17 +1,42 @@
 [
   {
+    "name_en": "Materials",
+    "name_ru": "Материалы",
+    "name_tg": "Маводҳо"
+  },
+  {
+    "name_en": "Men's Clothing",
+    "name_ru": "Мужская одежда",
+    "name_tg": "Либоси мардона"
+  },
+  {
+    "name_en": "Men's Clothing",
+    "name_ru": "Мужская одежда",
+    "name_tg": "Либоси мардона"
+  },
+  {
+    "name_en": "Men's Clothing",
+    "name_ru": "Мужская одежда",
+    "name_tg": "Либоси мардона"
+  },
+  {
     "name_en": "National Clothing",
     "name_ru": "Национальная одежда",
     "name_tg": "Либоси миллӣ"
   },
   {
+    "name_en": "Apparel",
+    "name_ru": "Одежда",
+    "name_tg": "Либос"
+  },
+  {
+    "name_en": "Apparel",
+    "name_ru": "Одежда",
+    "name_tg": "Либос"
+  },
+  {
     "name_en": "Wedding",
     "name_ru": "Свадебные",
     "name_tg": "Тӯёна"
-  },
-  {
-    "name_en": "Materials",
-    "name_ru": "Материалы",
-    "name_tg": "Маводҳо"
   }
 ]
