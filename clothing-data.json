@@ -1,1 +1,50 @@
-
+[
+  {
+    "id": "item-retouched-1759552640255-2",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759552640255-2.jpg",
+    "name_en": "Tajik Embroidered Joma",
+    "name_ru": "Таджикская Жома с вышивкой",
+    "name_tg": "Ҷомаи зардӯзии тоҷикӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory": "Dress",
+    "tags_en": "traditional; Tajik; embroidered; national dress; vibrant; floral; wide sleeves; festive; colorful; folk costume; hand-embroidered",
+    "tags_ru": "традиционный; таджикский; вышитый; национальное платье; яркий; цветочный; широкие рукава; праздничный; красочный; народный костюм; ручная вышивка",
+    "tags_tg": "миллӣ; тоҷикӣ; зардӯзӣ; либоси миллӣ; рангоранг; гулдор; остинҳои васеъ; идона; зебо; либоси халқӣ; дастӣ",
+    "description_en": "An exquisite traditional Tajik dress, or Joma, adorned with rich, vibrant hand-embroidery in a kaleidoscope of floral and geometric patterns. Its wide, flowing sleeves and intricate design embody the elegance and cultural heritage of Tajikistan, perfect for festive occasions.",
+    "description_ru": "Изысканное традиционное таджикское платье, или Жома, украшенное богатой, яркой ручной вышивкой в калейдоскопе цветочных и геометрических узоров. Его широкие, струящиеся рукава и замысловатый дизайн воплощают элегантность и культурное наследие Таджикистана, идеально подходящее для праздничных случаев.",
+    "description_tg": "Ҷомаи зебои миллии тоҷикӣ, бо зардӯзии дастӣ, ки нақшҳои рангоранги гулдор ва геометрӣ дорад. Остинҳои васеъ ва тарҳи мураккаби он намоёнгари зебоӣ ва мероси фарҳангии Тоҷикистон буда, барои мавридҳои идона мувофиқ аст."
+  },
+  {
+    "id": "item-retouched-1759552607374-1",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759552607374-1.jpg",
+    "name_en": "Tajik National Festive Attire",
+    "name_ru": "Таджикский национальный праздничный наряд",
+    "name_tg": "Либоси миллии идонаи тоҷикӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory": "Festive Attire",
+    "tags_en": "traditional; Tajik; national dress; festive; blue; white; embroidered; vest; feathered hat; bell sleeves; lace trim; Central Asian; elegant",
+    "tags_ru": "традиционный; таджикский; национальное платье; праздничный; синий; белый; вышивка; жилет; шляпа с перьями; расклешенные рукава; кружево; Центральная Азия; элегантный",
+    "tags_tg": "миллӣ; тоҷикӣ; либоси миллӣ; идона; кабуд; сафед; гулдӯзӣ; жилет; тоқии пардор; остини васеъ; тӯр; Осиёи Марказӣ; зебо",
+    "description_en": "An exquisite Tajik national costume featuring a white dress with elegant bell sleeves and delicate lace, paired with a stunning blue embroidered vest adorned with sparkling details. The ensemble is completed by a matching feathered hat, embodying festive elegance and cultural heritage.",
+    "description_ru": "Изысканный таджикский национальный костюм, состоящий из белого платья с элегантными расклешенными рукавами и нежным кружевом, дополненный эффектным синим жилетом с вышивкой и блестящими элементами. Завершает образ соответствующая пернатая шляпа, воплощающая праздничную элегантность и культурное наследие.",
+    "description_tg": "Костюми миллии зебои тоҷикӣ, ки аз куртаи сафед бо остинҳои васеъ ва тӯри нозук иборат буда, бо ҷилети кабуди гулдӯзишуда ва ҷилодор оро дода шудааст. Кулоҳи пардори мувофиқ ин ансамблро пурра карда, зебогии идона ва мероси фарҳангиро таҷассум мекунад."
+  },
+  {
+    "id": "item-retouched-1759552576584-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759552576584-0.jpg",
+    "name_en": "Tajik National Ceremonial Kaftan",
+    "name_ru": "Таджикский национальный церемониальный кафтан",
+    "name_tg": "Кафтони маросимии миллии тоҷикӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory": "Kaftan",
+    "tags_en": "traditional; Tajik; kaftan; dress; ceremonial; red; velvet; embroidery; silver; gold; festive; elegant; national costume; bell sleeves; fringe; ornate; cultural",
+    "tags_ru": "традиционный; таджикский; кафтан; платье; церемониальный; красный; бархат; вышивка; серебро; золото; праздничный; элегантный; национальный костюм; колоколообразные рукава; бахрома; нарядный; культурный",
+    "tags_tg": "анъанавӣ; тоҷикӣ; кафтан; либос; расмӣ; сурх; махмал; гулдӯзӣ; нуқрагӣ; тиллоӣ; идона; зебо; либоси миллӣ; остини васеъ; ҳошия; боҳашамат; фарҳангӣ",
+    "description_en": "An exquisite traditional Tajik kaftan, richly adorned with intricate silver and gold embroidery over luxurious red velvet. This ceremonial garment features elegant bell sleeves with delicate fringes, embodying the grandeur and artistry of national costume.",
+    "description_ru": "Изысканный традиционный таджикский кафтан, богато украшенный замысловатой серебряной и золотой вышивкой на роскошном красном бархате. Это церемониальное одеяние отличается элегантными колоколообразными рукавами с нежной бахромой, воплощая величие и мастерство национального костюма.",
+    "description_tg": "Кафтони анъанавии тоҷикӣ, ки бо гулдӯзии нозуки нуқрагӣ ва тиллоӣ дар махмали боҳашамати сурх зебу оро дода шудааст. Ин либоси маросимӣ дорои остинҳои шевои зангӯладор бо ҳошияи нозук буда, бузургӣ ва ҳунари либоси миллиро таҷассум мекунад."
+  }
+]
