@@ -17,6 +17,25 @@
     "description_tg": "Куртаи мардонаи дароздасти замонавӣ бо заминаи сиёҳи безавол ва рахҳои сафеди амудӣ. Барои намуди муосир ва бисёрҷониба, ки ба осонӣ аз мавридҳои оддӣ ба расмӣ мегузарад, комил аст."
   },
   {
+    "id": "item-retouched-1759643009618-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759643009618-0.png",
+    "originalSourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo-originals/main/images/item-retouched-1759643009618-0.png",
+    "name_en": "Green Embroidered Ceremonial Robe",
+    "name_ru": "Зеленый Вышитый Церемониальный Халат",
+    "name_tg": "Либоси маросимии сабз бо гулдӯзӣ",
+    "gender": "female",
+    "category": "Национальная одежда",
+    "subCategory_en": "Ceremonial Robe",
+    "subCategory_ru": "Церемониальный Халат",
+    "subCategory_tg": "Либоси Маросимӣ",
+    "tags_en": "green; gold embroidery; traditional; ceremonial; festive; long robe; ornate; elegant; bell sleeves; headpiece; cultural attire; brocade; satin",
+    "tags_ru": "зеленый; золотая вышивка; традиционный; церемониальный; праздничный; длинный халат; нарядный; элегантный; рукава-колокол; головной убор; национальный костюм; парча; атлас",
+    "tags_tg": "сабз; гулдӯзии тиллоӣ; миллӣ; маросимӣ; идона; либоси дароз; зебо; шево; остинҳои васеъ; сарпӯш; либоси фарҳангӣ; брокад; атлас",
+    "description_en": "An exquisite green ceremonial robe adorned with intricate gold embroidery and elegant bell sleeves. This opulent attire, complete with a matching embellished headpiece, exudes timeless elegance and cultural grandeur, perfect for special occasions.",
+    "description_ru": "Изысканный зеленый церемониальный халат, украшенный сложной золотой вышивкой и элегантными рукавами-колоколами. Этот роскошный наряд, дополненный соответствующим головным убором, излучает вневременную элегантность и культурное величие, идеально подходящий для особых случаев.",
+    "description_tg": "Либоси маросимии сабзи нодир, ки бо гулдӯзии мураккаби тиллоӣ ва остинҳои зебои зангӯладор оро дода шудааст. Ин либоси боҳашамат, ки бо сарпӯши мувофиқ мукаммал шудааст, зебогии безавол ва бузургии фарҳангиро ифода мекунад, ки барои мавридҳои махсус комил аст."
+  },
+  {
     "id": "item-retouched-1759598937542-3",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759598937542-3.jpeg",
     "originalSourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo-originals/main/images/item-retouched-1759598937542-3.jpeg",
