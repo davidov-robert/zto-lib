@@ -1,5 +1,25 @@
 [
   {
+    "id": "item-retouched-1759761765927-0",
+    "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759761765927-0.jpg",
+    "originalSourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo-originals/main/images/item-retouched-1759761765927-0.jpg",
+    "name_en": "Ikat Pattern with Teal and Purple",
+    "name_ru": "Узор Икат с бирюзовым и фиолетовым",
+    "name_tg": "Нақши Икат бо кабуди баҳрӣ ва арғувонӣ",
+    "gender": "unisex",
+    "category": "Материалы",
+    "subCategory_en": "Textile Pattern",
+    "subCategory_ru": "Текстильный узор",
+    "subCategory_tg": "Нақши матоъ",
+    "tags_en": "ikat; pattern; textile; fabric; traditional; white; black; purple; teal; geometric; ethnic; design",
+    "tags_ru": "икат; узор; текстиль; ткань; традиционный; белый; черный; фиолетовый; бирюзовый; геометрический; этнический; дизайн",
+    "tags_tg": "икат; нақш; матоъ; абрешим; анъанавӣ; сафед; сиёҳ; арғувонӣ; кабуди баҳрӣ; геометрӣ; миллӣ; тарҳ",
+    "materialType": "pattern",
+    "description_en": "A vibrant ikat fabric showcasing a classic pattern with a modern twist, featuring striking black, teal, and purple hues against a crisp white background. This versatile textile is perfect for creating unique garments or home decor.",
+    "description_ru": "Яркая ткань икат с классическим узором и современным акцентом, представляющая собой эффектные черные, бирюзовые и фиолетовые оттенки на чистом белом фоне. Этот универсальный текстиль идеально подходит для создания уникальной одежды или домашнего декора.",
+    "description_tg": "Матои дурахшони икат, ки нақши классикиро бо таркиби муосир намоиш медиҳад, бо рангҳои сиёҳ, кабуди баҳрӣ ва арғувонии ҷолиб дар заминаи сафеди равшан. Ин матои бисёрфунксионалӣ барои сохтани либосҳои беназир ё ороиши хона комил аст."
+  },
+  {
     "id": "item-retouched-1759646478339-27",
     "sourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo/main/images/item-retouched-1759646478339-27.jpg",
     "originalSourceUrl": "https://raw.githubusercontent.com/davidov-robert/zto-photo-originals/main/images/item-retouched-1759646478339-27.jpg",
