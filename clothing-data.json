@@ -148,7 +148,7 @@
     "tags_en": "lavender;purple;dress shirt;men's shirt;formal;long sleeve;button-up;business;smart casual;light purple;office wear;classic;twill",
     "tags_ru": "сиреневый;фиолетовый;рубашка;мужская рубашка;деловой;официальный;с длинным рукавом;на пуговицах;офисная одежда;классика;саржа",
     "tags_tg": "бунафш;арғувонӣ;курта;куртаи мардона;расмӣ;бо остин дароз;тугмадор;офиси;классикӣ;сарча",
-    "materialType": "texture",
+    "materialType": "",
     "description_en": "An elegant men's lavender dress shirt, perfect for formal occasions or sophisticated business wear. Its classic design and subtle texture offer timeless style.",
     "description_ru": "Элегантная мужская сиреневая рубашка, идеальная для официальных мероприятий или делового стиля. Ее классический дизайн и тонкая текстура придают вневременной вид.",
     "description_tg": "Куртаи расмии мардонаи бунафши зебо, ки барои мавридҳои расмӣ ё либоси тиҷоратии муосир мувофиқ аст. Тарҳи классикӣ ва бофтаи нозуки он услуби бевақтро пешниҳод мекунад."
@@ -166,7 +166,7 @@
     "tags_en": "knitted;necktie;tie;checkerboard;black and white;pattern;formal;accessory;men's fashion;classic;geometric",
     "tags_ru": "вязаный;галстук;клетка;черно-белый;узор;формальный;аксессуар;мужская мода;классический;геометрический",
     "tags_tg": "трикотажӣ;галстук;шашка;сиёҳу сафед;нақш;расмӣ;лавозимот;мӯди мардона;классикӣ;геометрӣ",
-    "materialType": "pattern",
+    "materialType": "",
     "description_en": "A stylish knitted necktie featuring a timeless black and white checkerboard pattern, perfect for adding a touch of sophisticated flair to any formal or semi-formal ensemble.",
     "description_ru": "Стильный вязаный галстук с классическим черно-белым узором в клетку, идеально подходящий для придания изысканного шарма любому формальному или полуформальному образу.",
     "description_tg": "Галстуки трикотажии услубӣ бо нақши классикии сиёҳу сафеди шашкамонанд, ки барои илова кардани зебогии мураккаб ба ҳама гуна либоси расмӣ ё нимрасмӣ комил аст."
@@ -202,7 +202,7 @@
     "tags_en": "tie; striped; business; formal; black; white; menswear; accessory; elegant; professional",
     "tags_ru": "галстук; полосатый; деловой; формальный; черный; белый; мужской; аксессуар; элегантный; профессиональный",
     "tags_tg": "галстук; рахдор; корӣ; расмӣ; сиёҳ; сафед; либоси мардона; лавозимот; зебо; касбӣ",
-    "materialType": "pattern",
+    "materialType": "",
     "description_en": "An elegant black and white striped business tie, perfect for formal occasions or daily office wear, adding a touch of sophistication to any suit.",
     "description_ru": "Элегантный черно-белый полосатый деловой галстук, идеально подходящий для официальных мероприятий или повседневной офисной носки, придающий изысканность любому костюму.",
     "description_tg": "Галстуки рахдори сиёҳу сафеди корӣ, ки барои мавридҳои расмӣ ё пӯшидани ҳаррӯза дар офис мувофиқ аст ва ба ҳар як костюм зебогӣ мебахшад."
